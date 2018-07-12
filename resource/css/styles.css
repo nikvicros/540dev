@@ -71,7 +71,7 @@ template {
 }
 
 a {
-    color: #464646;
+    color: #031424;
     background-color: transparent;
 }
 
@@ -101,7 +101,7 @@ h1 {
 
 mark {
     background: #ffffff;
-    color: #787878;
+    color: #031424;
 }
 
 small {
@@ -218,7 +218,7 @@ input[type=search]::-webkit-search-decoration {
 }
 
 fieldset {
-    border: 1px solid #787878;
+    border: 1px solid #031424;
     margin: 0 2px;
     padding: .35em .625em .75em;
 }
@@ -261,12 +261,12 @@ select:focus {
 
 input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
-    color: #787878;
+    color: #031424;
 }
 
 input:-moz-placeholder,
 textarea:-moz-placeholder {
-    color: #787878;
+    color: #031424;
 }
 
 
@@ -285,7 +285,7 @@ h5,
 h6,
 .h6 {
     font-family: 'Bitter', serif;
-    color: #464646;
+    color: #031424;
     font-weight: 600;
     line-height: 1.2em;
     margin-bottom: 20px;
@@ -339,7 +339,7 @@ h6,
 }
 
 a {
-    color: #464646;
+    color: #031424;
     text-decoration: none;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -417,20 +417,20 @@ blockquote p {
 blockquote footer,
 blockquote cite {
     font-size: 12px;
-    color: #787878;
+    color: #031424;
     font-weight: 700;
 }
 
 blockquote footer:before,
 blockquote cite:before {
     content: '- ';
-    color: #787878;
+    color: #031424;
 }
 
 blockquote footer:after,
 blockquote cite:after {
     content: ' ';
-    color: #787878;
+    color: #031424;
 }
 
 pre {
@@ -463,7 +463,7 @@ select,
 textarea {
     height: 40px;
     width: 100%;
-    border: 1px solid #787878;
+    border: 1px solid #031424;
     padding: 0 10px;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -500,7 +500,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 13px;
     background: #ffffff;
-    color: #787878;
+    color: #031424;
     overflow-x: hidden;
     line-height: 24px;
     word-spacing: 1px;
@@ -587,7 +587,7 @@ body {
 
 #header .menu-list .menu-item a {
     position: relative;
-    color: #464646;
+    color: #031424;
 }
 
 #header .menu-list .menu-item a:after {
@@ -637,7 +637,7 @@ body {
 }
 
 #header .menu-list a {
-    color: #464646;
+    color: #031424;
     float: left;
     text-align: center;
     letter-spacing: 1px;
@@ -709,7 +709,7 @@ body {
 .menu-mobile .item {
     position: absolute;
     left: 0;
-    background-color: #464646;
+    background-color: #031424;
     width: 18px;
     height: 1px;
 }
@@ -783,7 +783,7 @@ body {
     padding: 10px 20px 10px;
     text-transform: uppercase;
     cursor: pointer;
-    background-color: #464646;
+    background-color: #031424;
 }
 
 #slider-section .effect .title {
@@ -904,11 +904,11 @@ body {
     height: 8px;
     margin-right: 10px;
     border-radius: 50%;
-    border: 1px solid #464646;
+    border: 1px solid #031424;
 }
 
 #slider-section .owl-dots .owl-dot.active {
-    background: #464646;
+    background: #031424;
 }
 
 #slider-section .owl-dots .owl-dot:last-child {
@@ -916,7 +916,7 @@ body {
 }
 
 .btn {
-    background-color: #464646;
+    background-color: #CF6766;
     color: #ffffff;
 }
 
@@ -1058,7 +1058,7 @@ div.overlay:after {
     display: inline-block;
     height: 2px;
     width: 40px;
-    background-color: #787878;
+    background-color: #031424;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
     transform: translateX(-50%);
@@ -1191,7 +1191,7 @@ div.overlay:after {
     width: 0;
     height: 0;
     border: 6px solid transparent;
-    border-top-color: #787878;
+    border-top-color: #031424;
     margin: auto;
     left: 0;
     right: 0;
@@ -1429,7 +1429,7 @@ div.overlay:after {
     display: inline-block;
     width: 12px;
     height: 4px;
-    background-color: #787878;
+    background-color: #031424;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
@@ -1555,7 +1555,7 @@ div.overlay:after {
     height: 5px;
     display: inline-block;
     margin: 2px;
-    background: #464646;
+    background: #031424;
     float: left;
 }
 
@@ -1624,7 +1624,7 @@ div.overlay:after {
     transform: translateX(-50%);
     width: 3px;
     height: 3px;
-    background-color: #787878;
+    background-color: #031424;
     border-radius: 50%;
 }
 
@@ -1744,7 +1744,7 @@ div.overlay:after {
 #portfolio-wrap .cat,
 .portfolio .cat,
 .projects-related .cat {
-    color: #464646;
+    color: #031424;
 }
 
 #portfolio-wrap.zoom-in .caption,
@@ -1903,7 +1903,7 @@ div.overlay:after {
     padding: 10px 20px;
     text-transform: uppercase;
     cursor: pointer;
-    background-color: #464646;
+    background-color: #031424;
 }
 
 .project-detail .button:after {
@@ -2012,7 +2012,7 @@ div.overlay:after {
     font-family: 'Bitter', serif;
     text-transform: uppercase;
     text-align: left;
-    color: #464646;
+    color: #031424;
     padding-bottom: 5px;
     font-weight: 700;
 }
@@ -2130,14 +2130,14 @@ div.overlay:after {
     padding: 8px 24px;
     background: none;
     font-size: 10px;
-    color: #464646;
-    border: 1px solid #464646;
+    color: #031424;
+    border: 1px solid #031424;
     text-align: center;
 }
 
 #main-content .blog-posts>article .post-content .read-more:hover a {
-    color: #464646;
-    border-color: #464646;
+    color: #031424;
+    border-color: #031424;
 }
 
 #main-content .blog-posts>article .post-content .post-share-wrap {
@@ -2147,7 +2147,7 @@ div.overlay:after {
     bottom: 6px;
     right: 0;
     line-height: 30px;
-    color: #464646;
+    color: #031424;
 }
 
 #main-content .blog-posts>article .post-content .post-share-wrap a {
@@ -2210,7 +2210,7 @@ div.overlay:after {
 }
 
 #main-content .pagination-wrap ul li {
-    color: #464646;
+    color: #031424;
     width: 35px;
     height: 44px;
     line-height: 44px;
@@ -2221,7 +2221,7 @@ div.overlay:after {
 }
 
 #main-content .pagination-wrap ul li .current {
-    color: #464646;
+    color: #031424;
     font-size: 40px;
 }
 
@@ -2244,7 +2244,7 @@ div.overlay:after {
 }
 
 .single-post .text-special {
-    color: #464646;
+    color: #031424;
     font-size: 16px;
     text-transform: uppercase;
 }
@@ -2268,7 +2268,7 @@ div.overlay:after {
 .single-post article .post-cat,
 .single-post article .post-tags {
     line-height: 24px;
-    color: #464646;
+    color: #031424;
     font-size: 11px;
     text-transform: uppercase;
 }
@@ -2350,7 +2350,7 @@ div.overlay:after {
 }
 
 .single-post #post-author .title span {
-    color: #464646;
+    color: #031424;
     font-size: 20px;
 }
 
@@ -2426,7 +2426,7 @@ div.overlay:after {
     display: inline-block;
     height: 2px;
     width: 40px;
-    background-color: #787878;
+    background-color: #031424;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
     transform: translateX(-50%);
@@ -2444,7 +2444,7 @@ div.overlay:after {
 .single-post .related-wrap .related-item .item-meta {
     font-size: 11px;
     text-transform: uppercase;
-    color: #464646;
+    color: #031424;
 }
 
 .single-post .related-wrap .related-content {
@@ -2475,7 +2475,7 @@ div.overlay:after {
     display: inline-block;
     height: 2px;
     width: 40px;
-    background-color: #787878;
+    background-color: #031424;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
     transform: translateX(-50%);
@@ -2529,7 +2529,7 @@ div.overlay:after {
     line-height: normal;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #464646;
+    color: #031424;
     padding-bottom: 10px;
     display: inline-block;
 }
@@ -2582,7 +2582,7 @@ div.overlay:after {
 }
 
 .single-post #comments .nav-links>div {
-    color: #464646;
+    color: #031424;
     background-color: #ffffff;
     font-size: 10px;
     font-family: 'Bitter', serif;
@@ -2606,15 +2606,15 @@ div.overlay:after {
 }
 
 .single-post #comments .nav-links a:hover {
-    color: #464646;
+    color: #031424;
 }
 
 .single-post #respond .logged-in-as a {
-    color: #464646;
+    color: #031424;
 }
 
 .single-post #respond .logged-in-as a:hover {
-    color: #464646;
+    color: #031424;
 }
 
 .single-post #respond {
@@ -2723,7 +2723,7 @@ div.overlay:after {
 
 .single-post .form-submit input,
 .section-inner .form-submit input {
-    background: #464646;
+    background: #CF6766;
     line-height: 2.4em;
     min-width: 100px;
     padding-left: 20px;
@@ -2741,7 +2741,7 @@ div.overlay:after {
 
 .single-post .form-login-logout a,
 .section-inner .form-login-logout a {
-    color: #464646;
+    color: #031424;
 }
 
 .post-cat {
@@ -2776,7 +2776,7 @@ div.overlay:after {
 .post-details a:after {
     content: '//';
     padding: 0 4px;
-    color: #464646 !important;
+    color: #031424 !important;
 }
 
 .post-details a:last-child:after {
@@ -2813,7 +2813,7 @@ div.overlay:after {
 }
 
 .page_title_404 span {
-    color: #464646;
+    color: #031424;
 }
 
 .page_sub_title_404 {
@@ -2848,7 +2848,7 @@ div.overlay:after {
 .go-to-home a {
     display: inline-block;
     color: #ffffff;
-    background-color: #464646;
+    background-color: #031424;
     cursor: pointer;
     letter-spacing: 2px;
     padding: 12px 30px;
@@ -2870,7 +2870,7 @@ div.overlay:after {
 .post .wp-caption .wp-caption-text {
     font-size: 13px;
     font-style: italic;
-    color: #464646;
+    color: #031424;
     text-align: center;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -2916,7 +2916,7 @@ div.overlay:after {
     text-align: center;
     border-radius: 50%;
     padding: 2px;
-    color: #464646;
+    color: #031424;
     font-size: 16px;
     top: 0;
     left: 0;
@@ -2950,7 +2950,7 @@ div.overlay:after {
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
-    background-color: #464646;
+    background-color: #031424;
     color: #ffffff;
     pointer-events: none;
 }
@@ -3059,8 +3059,8 @@ div.overlay:after {
 .comment table>tbody>tr>td,
 .the-excerpt table>tfoot>tr>td,
 .comment table>tfoot>tr>td {
-    border-top: 1px solid #464646;
-    border-left: 1px solid #464646;
+    border-top: 1px solid #031424;
+    border-left: 1px solid #031424;
     line-height: 1.42857;
     padding: 8px;
     vertical-align: top;
@@ -3078,7 +3078,7 @@ div.overlay:after {
 .comment table>tbody>tr>td:last-child,
 .the-excerpt table>tfoot>tr>td:last-child,
 .comment table>tfoot>tr>td:last-child {
-    border-right: 1px solid #464646;
+    border-right: 1px solid #031424;
 }
 
 .the-excerpt table>thead>tr:first-child,
@@ -3087,7 +3087,7 @@ div.overlay:after {
 .comment table>tbody>tr:first-child,
 .the-excerpt table>tfoot>tr:first-child,
 .comment table>tfoot>tr:first-child {
-    border-top: 1px solid #464646;
+    border-top: 1px solid #031424;
 }
 
 .the-excerpt table>thead>tr:last-child,
@@ -3096,11 +3096,11 @@ div.overlay:after {
 .comment table>tbody>tr:last-child,
 .the-excerpt table>tfoot>tr:last-child,
 .comment table>tfoot>tr:last-child {
-    border-bottom: 1px solid #464646;
+    border-bottom: 1px solid #031424;
 }
 
 .the-excerpt table>thead>tr>th {
-    border-bottom: 1px solid #464646;
+    border-bottom: 1px solid #031424;
     vertical-align: bottom;
 }
 
@@ -3134,7 +3134,7 @@ div.overlay:after {
     min-height: 40px;
     display: inline-block;
     padding: 0 25px;
-    background-color: #464646;
+    background-color: #031424;
     text-transform: uppercase;
     font-size: 11px;
     line-height: 2.5em;
@@ -3144,7 +3144,7 @@ div.overlay:after {
 }
 
 .form-submit input {
-    background: #464646;
+    background: #031424;
     line-height: 2.4em;
     min-width: 100px;
     padding-left: 20px;
@@ -3227,7 +3227,7 @@ div.overlay:after {
 }
 
 #footer .socials a {
-    color: #787878 !important;
+    color: #031424 !important;
     margin-right: 10px;
 }
 
@@ -3294,7 +3294,7 @@ div.overlay:after {
 
 .widget .widget-title {
     display: block;
-    background: #464646;
+    background: #031424;
     color: #ffffff;
     line-height: 44px;
     font-size: 14px;
@@ -3389,11 +3389,11 @@ div.overlay:after {
 }
 
 .widget .recentcomments a {
-    color: #464646;
+    color: #031424;
 }
 
 .widget .rsswidget {
-    color: #464646;
+    color: #031424;
 }
 
 .widget.widget_search .wrap-search {
@@ -3407,7 +3407,7 @@ div.overlay:after {
     top: 0;
     right: 0;
     bottom: 0;
-    background: #464646;
+    background: #031424;
     border: 1px solid transparent;
     width: 40px;
     height: 40px;
@@ -3419,7 +3419,7 @@ div.overlay:after {
 }
 
 .widget.widget_search .search-field {
-    border-color: #464646;
+    border-color: #031424;
     padding-right: 40px;
 }
 
@@ -3446,7 +3446,7 @@ div.overlay:after {
 
 .widget .tagcloud a {
     display: inline-block;
-    border: 1px solid #787878;
+    border: 1px solid #031424;
     font-size: 12px !important;
     padding: 3px 15px;
     margin-left: 5px;
@@ -3460,7 +3460,7 @@ div.overlay:after {
 }
 
 .widget.kd-about .title span {
-    color: #464646;
+    color: #031424;
     font-size: 30px;
 }
 
@@ -3593,13 +3593,13 @@ div.overlay:after {
     width: 30px;
     height: 30px;
     font-size: 20px;
-    color: #464646;
+    color: #031424;
 }
 
 .widget.kd-twitter .twitter-logo {
     text-align: center;
     font-size: 50px;
-    color: #464646;
+    color: #031424;
 }
 
 .widget.kd-twitter .owl-dots {
@@ -3621,11 +3621,11 @@ div.overlay:after {
     height: 8px;
     margin-right: 10px;
     border-radius: 50%;
-    border: 1px solid #464646;
+    border: 1px solid #031424;
 }
 
 .widget.kd-twitter .owl-dots .owl-dot.active {
-    background: #464646;
+    background: #031424;
 }
 
 .widget.kd-twitter .owl-dots .owl-dot:last-child {
@@ -3765,7 +3765,7 @@ div.overlay:after {
         transform: rotate(0);
     }
     55% {
-        background-color: #464646;
+        background-color: #031424;
     }
     100% {
         transform: rotate(90deg);
@@ -3778,7 +3778,7 @@ div.overlay:after {
         transform: rotate(0);
     }
     55% {
-        background-color: #464646;
+        background-color: #031424;
     }
     100% {
         transform: rotate(-90deg);
@@ -3800,7 +3800,7 @@ div.overlay:after {
     display: block;
     width: 20px;
     height: 20px;
-    background-color: #464646;
+    background-color: #031424;
     animation: loaderBlock 1.2s infinite ease-in-out both;
 }
 
@@ -3829,7 +3829,7 @@ div.overlay:after {
 .preloader-2 {
     position: absolute;
     font-size: 20px;
-    color: #787878;
+    color: #031424;
     letter-spacing: 0.2em;
     width: 100%;
     top: 50%;
@@ -3852,7 +3852,7 @@ div.overlay:after {
     border-right-color: #d4d4d4!important;
     border-bottom-color: #d4d4d4!important;
     border-left-color: #d4d4d4!important;
-    border-top-color: #464646;
+    border-top-color: #031424;
     margin-right: 3px;
     -webkit-animation: kdSpin 1s cubic-bezier(0.24, 0.56, 0.54, 0.84) infinite;
     -moz-animation: kdSpin 1s cubic-bezier(0.24, 0.56, 0.54, 0.84) infinite;
@@ -3978,8 +3978,8 @@ div.overlay:after {
         transition: transform 0.3s ease;
     }
     #header .main-menu nav {
-        border-top: 1px solid #464646;
-        border-bottom: 1px solid #464646;
+        border-top: 1px solid #031424;
+        border-bottom: 1px solid #031424;
     }
     #header .main-menu .logo {
         display: block;
@@ -3999,7 +3999,7 @@ div.overlay:after {
         margin: 0;
         font-size: 13px;
         padding: 10px 24px;
-        border-bottom: 1px solid #464646;
+        border-bottom: 1px solid #031424;
         text-transform: uppercase !important;
         display: block;
         color: #ffffff;
