@@ -1218,12 +1218,12 @@ div.overlay:after {
     left: 0;
     right: 0;
     width: 1px;
-    background-color: #dddddd;
+    background-color: #CF6766;
 }
 
 .experience-item {
     padding: 20px;
-    border: 1px solid #dddddd;
+    border: 1px solid #CF6766;
     margin-bottom: 20px;
     margin-right: 30px;
     width: calc(50% - 30px);
@@ -1252,7 +1252,7 @@ div.overlay:after {
     width: 0;
     height: 0;
     border: 9px solid transparent;
-    border-left-color: #dddddd;
+    border-left-color: #CF6766;
     margin: auto;
     top: 50%;
     left: 100%;
@@ -1268,7 +1268,7 @@ div.overlay:after {
     height: 36px;
     background: #f6f8f8;
     border-radius: 50%;
-    color: #dddddd;
+    color: #CF6766;
     position: absolute;
     top: 50%;
     line-height: 32px;
